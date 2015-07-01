@@ -1,0 +1,2550 @@
+{
+    "Content": [
+        {
+            "Channel Header": {
+                "Data Source": "ADIDI",
+                "File Type": "PROBE",
+                "Number of Channels": "5"
+            }
+        },
+        {
+            "Channel 1: Type": "Time",
+            "Maximum": {
+                "unit": "s",
+                "value": "1128.201"
+            },
+            "Minimum": {
+                "unit": "s",
+                "value": "0"
+            },
+            "Sensor Range": {
+                "Maximum": {
+                    "unit": "s",
+                    "value": "10"
+                },
+                "Minimum": {
+                    "unit": "s",
+                    "value": "0"
+                }
+            },
+            "Sensor Type": {
+                "": "Clock"
+            },
+            "User Range": {
+                "Maximum": {
+                    "unit": "s",
+                    "value": "10"
+                },
+                "Minimum": {
+                    "unit": "s",
+                    "value": "0"
+                }
+            }
+        },
+        {
+            "Channel 2: Type": [
+                "Temperature"
+            ],
+            "Maximum": {
+                "unit": "\u00c2\u00b0C",
+                "value": "850.3"
+            },
+            "Minimum": {
+                "unit": "\u00c2\u00b0C",
+                "value": "-3"
+            },
+            "Sensor Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "1500"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "0"
+                }
+            },
+            "Sensor Type": {
+                "": "Type-K"
+            },
+            "User Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "1500"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "0"
+                }
+            }
+        },
+        {
+            "Channel 3: Type": [
+                "Delta-L"
+            ],
+            "Maximum": {
+                "unit": "\u00c2\u00b5m",
+                "value": "220.948"
+            },
+            "Minimum": {
+                "unit": "\u00c2\u00b5m",
+                "value": "-24.984"
+            },
+            "Sensor Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b5m",
+                    "value": "24.9"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b5m",
+                    "value": "-24.9"
+                }
+            },
+            "Sensor Type": {
+                "": "Dilatometer\u00c2\u00b5m"
+            },
+            "User Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b5m",
+                    "value": "24.9"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b5m",
+                    "value": "-24.9"
+                }
+            }
+        },
+        {
+            "Channel 4: Type": {
+                "": "value"
+            },
+            "Maximum": {
+                "unit": "\u00c2\u00b0C",
+                "value": "-10.2"
+            },
+            "Minimum": {
+                "unit": "\u00c2\u00b0C",
+                "value": "-10.2"
+            },
+            "Sensor Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "1500"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "0"
+                }
+            },
+            "Sensor Type": {
+                "": "Generator"
+            },
+            "User Range": {
+                "Maximum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "1500"
+                },
+                "Minimum": {
+                    "unit": "\u00c2\u00b0C",
+                    "value": "0"
+                }
+            }
+        },
+        {
+            "Channel 5: Type": [
+                "Power"
+            ],
+            "Maximum": {
+                "unit": "%",
+                "value": "26.785"
+            },
+            "Minimum": {
+                "unit": "%",
+                "value": "-99.997"
+            },
+            "Sensor Range": {
+                "Maximum": {
+                    "unit": "%",
+                    "value": "100"
+                },
+                "Minimum": {
+                    "unit": "%",
+                    "value": "-100"
+                }
+            },
+            "Sensor Type": {
+                "": "Controller"
+            },
+            "User Range": {
+                "Maximum": {
+                    "unit": "%",
+                    "value": "100"
+                },
+                "Minimum": {
+                    "unit": "%",
+                    "value": "-100"
+                }
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "5",
+                "Column 2": "850",
+                "Column 3": "900"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "200",
+                "Column 2": "-10",
+                "Column 3": "60"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data List": {
+                "Column 1": "0",
+                "Column 2": "0",
+                "Column 3": "0"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.001",
+                "Column 2": "30.7",
+                "Column 3": "0",
+                "Column 4": "30.7",
+                "Column 5": "0"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.011",
+                "Column 2": "30.7",
+                "Column 3": "-0.0912",
+                "Column 4": "30.7",
+                "Column 5": "0.7629"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.021",
+                "Column 2": "30.6",
+                "Column 3": "-0.059",
+                "Column 4": "30.7",
+                "Column 5": "0.7629"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.031",
+                "Column 2": "30.6",
+                "Column 3": "-0.1166",
+                "Column 4": "30.8",
+                "Column 5": "0.9003"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.041",
+                "Column 2": "30.7",
+                "Column 3": "-0.0422",
+                "Column 4": "30.8",
+                "Column 5": "0.8301"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.051",
+                "Column 2": "30.7",
+                "Column 3": "0.0036",
+                "Column 4": "30.9",
+                "Column 5": "0.9033"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.061",
+                "Column 2": "30.7",
+                "Column 3": "0.0186",
+                "Column 4": "30.9",
+                "Column 5": "0.9033"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.071",
+                "Column 2": "30.7",
+                "Column 3": "-0.01",
+                "Column 4": "31",
+                "Column 5": "0.9705"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.081",
+                "Column 2": "30.7",
+                "Column 3": "0.0089",
+                "Column 4": "31",
+                "Column 5": "0.9705"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.091",
+                "Column 2": "30.7",
+                "Column 3": "-0.0007",
+                "Column 4": "31.1",
+                "Column 5": "1.0406"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.101",
+                "Column 2": "30.7",
+                "Column 3": "-0.0172",
+                "Column 4": "31.1",
+                "Column 5": "1.0406"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.111",
+                "Column 2": "30.7",
+                "Column 3": "-0.0386",
+                "Column 4": "31.2",
+                "Column 5": "1.1108"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.121",
+                "Column 2": "30.7",
+                "Column 3": "0.0304",
+                "Column 4": "31.2",
+                "Column 5": "1.1108"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.131",
+                "Column 2": "30.7",
+                "Column 3": "-0.0229",
+                "Column 4": "31.3",
+                "Column 5": "1.181"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.141",
+                "Column 2": "30.7",
+                "Column 3": "0.0039",
+                "Column 4": "31.3",
+                "Column 5": "1.181"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.151",
+                "Column 2": "30.7",
+                "Column 3": "0.0476",
+                "Column 4": "31.4",
+                "Column 5": "1.2482"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.161",
+                "Column 2": "30.7",
+                "Column 3": "-0.0279",
+                "Column 4": "31.4",
+                "Column 5": "1.2482"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.171",
+                "Column 2": "30.7",
+                "Column 3": "-0.083",
+                "Column 4": "31.5",
+                "Column 5": "1.3245"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.181",
+                "Column 2": "30.7",
+                "Column 3": "-0.0926",
+                "Column 4": "31.5",
+                "Column 5": "1.3245"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.191",
+                "Column 2": "30.7",
+                "Column 3": "-0.0647",
+                "Column 4": "31.6",
+                "Column 5": "1.3245"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.201",
+                "Column 2": "30.8",
+                "Column 3": "-0.1216",
+                "Column 4": "31.6",
+                "Column 5": "1.3916"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.211",
+                "Column 2": "30.8",
+                "Column 3": "-0.1134",
+                "Column 4": "31.7",
+                "Column 5": "1.3947"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.221",
+                "Column 2": "30.7",
+                "Column 3": "-0.0093",
+                "Column 4": "31.7",
+                "Column 5": "1.4648"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.231",
+                "Column 2": "30.8",
+                "Column 3": "-0.0908",
+                "Column 4": "31.8",
+                "Column 5": "1.4648"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.241",
+                "Column 2": "30.8",
+                "Column 3": "-0.1316",
+                "Column 4": "31.8",
+                "Column 5": "1.4648"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.251",
+                "Column 2": "30.8",
+                "Column 3": "-0.0658",
+                "Column 4": "31.9",
+                "Column 5": "1.532"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.261",
+                "Column 2": "30.8",
+                "Column 3": "0.0107",
+                "Column 4": "31.9",
+                "Column 5": "1.532"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.271",
+                "Column 2": "30.8",
+                "Column 3": "-0.0443",
+                "Column 4": "32",
+                "Column 5": "1.6052"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.281",
+                "Column 2": "30.8",
+                "Column 3": "0.0057",
+                "Column 4": "32",
+                "Column 5": "1.6052"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.291",
+                "Column 2": "30.9",
+                "Column 3": "-0.0994",
+                "Column 4": "32.1",
+                "Column 5": "1.6052"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.301",
+                "Column 2": "30.9",
+                "Column 3": "-0.0515",
+                "Column 4": "32.1",
+                "Column 5": "1.6724"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.311",
+                "Column 2": "30.9",
+                "Column 3": "-0.0018",
+                "Column 4": "32.2",
+                "Column 5": "1.6724"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.321",
+                "Column 2": "30.9",
+                "Column 3": "0.0064",
+                "Column 4": "32.2",
+                "Column 5": "1.6724"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.331",
+                "Column 2": "30.9",
+                "Column 3": "-0.0265",
+                "Column 4": "32.3",
+                "Column 5": "1.7456"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.341",
+                "Column 2": "30.9",
+                "Column 3": "-0.0079",
+                "Column 4": "32.3",
+                "Column 5": "1.7456"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.351",
+                "Column 2": "30.9",
+                "Column 3": "-0.0569",
+                "Column 4": "32.4",
+                "Column 5": "1.8127"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.361",
+                "Column 2": "31",
+                "Column 3": "-0.0504",
+                "Column 4": "32.4",
+                "Column 5": "1.7456"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.371",
+                "Column 2": "31",
+                "Column 3": "-0.0744",
+                "Column 4": "32.5",
+                "Column 5": "1.8158"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.381",
+                "Column 2": "31",
+                "Column 3": "-0.019",
+                "Column 4": "32.5",
+                "Column 5": "1.8158"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.391",
+                "Column 2": "31",
+                "Column 3": "-0.0404",
+                "Column 4": "32.6",
+                "Column 5": "1.889"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.401",
+                "Column 2": "31",
+                "Column 3": "-0.0014",
+                "Column 4": "32.6",
+                "Column 5": "1.889"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.411",
+                "Column 2": "31",
+                "Column 3": "-0.0179",
+                "Column 4": "32.7",
+                "Column 5": "1.9592"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.421",
+                "Column 2": "31.1",
+                "Column 3": "0.0311",
+                "Column 4": "32.7",
+                "Column 5": "1.889"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.431",
+                "Column 2": "31.1",
+                "Column 3": "-0.0025",
+                "Column 4": "32.8",
+                "Column 5": "1.9623"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.441",
+                "Column 2": "31.1",
+                "Column 3": "-0.0815",
+                "Column 4": "32.8",
+                "Column 5": "1.9989"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.451",
+                "Column 2": "31.2",
+                "Column 3": "-0.1023",
+                "Column 4": "32.9",
+                "Column 5": "2.066"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.461",
+                "Column 2": "31.2",
+                "Column 3": "-0.0758",
+                "Column 4": "32.9",
+                "Column 5": "1.9989"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.471",
+                "Column 2": "31.2",
+                "Column 3": "-0.0544",
+                "Column 4": "33",
+                "Column 5": "2.066"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.481",
+                "Column 2": "31.2",
+                "Column 3": "0.044",
+                "Column 4": "33",
+                "Column 5": "2.066"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.491",
+                "Column 2": "31.2",
+                "Column 3": "0.122",
+                "Column 4": "33.1",
+                "Column 5": "2.1393"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.501",
+                "Column 2": "31.2",
+                "Column 3": "0.1706",
+                "Column 4": "33.1",
+                "Column 5": "2.1393"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.511",
+                "Column 2": "31.3",
+                "Column 3": "0.0883",
+                "Column 4": "33.2",
+                "Column 5": "2.1393"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.521",
+                "Column 2": "31.3",
+                "Column 3": "0.024",
+                "Column 4": "33.2",
+                "Column 5": "2.1393"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.531",
+                "Column 2": "31.3",
+                "Column 3": "-0.0154",
+                "Column 4": "33.3",
+                "Column 5": "2.2064"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.541",
+                "Column 2": "31.4",
+                "Column 3": "-0.0247",
+                "Column 4": "33.3",
+                "Column 5": "2.1393"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.551",
+                "Column 2": "31.4",
+                "Column 3": "0.0311",
+                "Column 4": "33.4",
+                "Column 5": "2.2095"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.561",
+                "Column 2": "31.4",
+                "Column 3": "0.0458",
+                "Column 4": "33.4",
+                "Column 5": "2.2095"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.571",
+                "Column 2": "31.4",
+                "Column 3": "0.0848",
+                "Column 4": "33.5",
+                "Column 5": "2.2797"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.581",
+                "Column 2": "31.4",
+                "Column 3": "0.0926",
+                "Column 4": "33.5",
+                "Column 5": "2.2797"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.591",
+                "Column 2": "31.5",
+                "Column 3": "0.0329",
+                "Column 4": "33.6",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.601",
+                "Column 2": "31.5",
+                "Column 3": "0.0207",
+                "Column 4": "33.6",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.611",
+                "Column 2": "31.6",
+                "Column 3": "0.0418",
+                "Column 4": "33.7",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.621",
+                "Column 2": "31.6",
+                "Column 3": "0.0018",
+                "Column 4": "33.7",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.631",
+                "Column 2": "31.7",
+                "Column 3": "0.005",
+                "Column 4": "33.8",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.641",
+                "Column 2": "31.7",
+                "Column 3": "-0.0114",
+                "Column 4": "33.8",
+                "Column 5": "2.2827"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.651",
+                "Column 2": "31.7",
+                "Column 3": "-0.0451",
+                "Column 4": "33.9",
+                "Column 5": "2.3895"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.661",
+                "Column 2": "31.7",
+                "Column 3": "-0.0497",
+                "Column 4": "33.9",
+                "Column 5": "2.3895"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.671",
+                "Column 2": "31.8",
+                "Column 3": "0.1119",
+                "Column 4": "34",
+                "Column 5": "2.3895"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.681",
+                "Column 2": "31.8",
+                "Column 3": "0.0916",
+                "Column 4": "34",
+                "Column 5": "2.3895"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.691",
+                "Column 2": "31.8",
+                "Column 3": "0.0533",
+                "Column 4": "34.1",
+                "Column 5": "2.4597"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.701",
+                "Column 2": "31.9",
+                "Column 3": "0.024",
+                "Column 4": "34.1",
+                "Column 5": "2.3895"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.711",
+                "Column 2": "31.9",
+                "Column 3": "0.0612",
+                "Column 4": "34.2",
+                "Column 5": "2.4628"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.721",
+                "Column 2": "31.9",
+                "Column 3": "0.0751",
+                "Column 4": "34.2",
+                "Column 5": "2.4628"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.731",
+                "Column 2": "31.9",
+                "Column 3": "0.2217",
+                "Column 4": "34.3",
+                "Column 5": "2.533"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.741",
+                "Column 2": "32",
+                "Column 3": "0.3086",
+                "Column 4": "34.3",
+                "Column 5": "2.4628"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.751",
+                "Column 2": "32",
+                "Column 3": "0.1963",
+                "Column 4": "34.4",
+                "Column 5": "2.533"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.761",
+                "Column 2": "32.1",
+                "Column 3": "0.1652",
+                "Column 4": "34.4",
+                "Column 5": "2.4628"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.771",
+                "Column 2": "32.1",
+                "Column 3": "0.2346",
+                "Column 4": "34.5",
+                "Column 5": "2.536"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.781",
+                "Column 2": "32.1",
+                "Column 3": "0.2203",
+                "Column 4": "34.5",
+                "Column 5": "2.536"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.791",
+                "Column 2": "32.2",
+                "Column 3": "0.123",
+                "Column 4": "34.6",
+                "Column 5": "2.536"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.801",
+                "Column 2": "32.2",
+                "Column 3": "0.059",
+                "Column 4": "34.6",
+                "Column 5": "2.536"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.811",
+                "Column 2": "32.2",
+                "Column 3": "0.0483",
+                "Column 4": "34.7",
+                "Column 5": "2.6093"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.821",
+                "Column 2": "32.3",
+                "Column 3": "0.0497",
+                "Column 4": "34.7",
+                "Column 5": "2.5391"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.831",
+                "Column 2": "32.3",
+                "Column 3": "0.0007",
+                "Column 4": "34.8",
+                "Column 5": "2.6459"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.841",
+                "Column 2": "32.4",
+                "Column 3": "0.1159",
+                "Column 4": "34.8",
+                "Column 5": "2.5757"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.851",
+                "Column 2": "32.4",
+                "Column 3": "0.1724",
+                "Column 4": "34.9",
+                "Column 5": "2.6459"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.861",
+                "Column 2": "32.5",
+                "Column 3": "0.2185",
+                "Column 4": "34.9",
+                "Column 5": "2.5757"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.871",
+                "Column 2": "32.5",
+                "Column 3": "0.2317",
+                "Column 4": "35",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.881",
+                "Column 2": "32.5",
+                "Column 3": "0.1663",
+                "Column 4": "35",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.891",
+                "Column 2": "32.6",
+                "Column 3": "0.1752",
+                "Column 4": "35.1",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.901",
+                "Column 2": "32.6",
+                "Column 3": "0.108",
+                "Column 4": "35.1",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.911",
+                "Column 2": "32.7",
+                "Column 3": "0.1609",
+                "Column 4": "35.2",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.921",
+                "Column 2": "32.7",
+                "Column 3": "0.1334",
+                "Column 4": "35.2",
+                "Column 5": "2.6489"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.931",
+                "Column 2": "32.7",
+                "Column 3": "0.1667",
+                "Column 4": "35.3",
+                "Column 5": "2.7191"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.941",
+                "Column 2": "32.8",
+                "Column 3": "0.2003",
+                "Column 4": "35.3",
+                "Column 5": "2.652"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.951",
+                "Column 2": "32.8",
+                "Column 3": "0.1831",
+                "Column 4": "35.4",
+                "Column 5": "2.7191"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.961",
+                "Column 2": "32.8",
+                "Column 3": "0.2106",
+                "Column 4": "35.4",
+                "Column 5": "2.7191"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.971",
+                "Column 2": "32.9",
+                "Column 3": "0.2893",
+                "Column 4": "35.5",
+                "Column 5": "2.7222"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.981",
+                "Column 2": "33",
+                "Column 3": "0.3047",
+                "Column 4": "35.5",
+                "Column 5": "2.655"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "0.991",
+                "Column 2": "33",
+                "Column 3": "0.2289",
+                "Column 4": "35.6",
+                "Column 5": "2.7588"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.001",
+                "Column 2": "33",
+                "Column 3": "0.2564",
+                "Column 4": "35.6",
+                "Column 5": "2.7588"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.011",
+                "Column 2": "33.1",
+                "Column 3": "0.1985",
+                "Column 4": "35.7",
+                "Column 5": "2.7588"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.021",
+                "Column 2": "33.1",
+                "Column 3": "0.1727",
+                "Column 4": "35.7",
+                "Column 5": "2.7588"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.031",
+                "Column 2": "33.1",
+                "Column 3": "0.206",
+                "Column 4": "35.8",
+                "Column 5": "2.832"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.041",
+                "Column 2": "33.2",
+                "Column 3": "0.1881",
+                "Column 4": "35.8",
+                "Column 5": "2.7618"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.051",
+                "Column 2": "33.2",
+                "Column 3": "0.2503",
+                "Column 4": "35.9",
+                "Column 5": "2.8137"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.061",
+                "Column 2": "33.3",
+                "Column 3": "0.2611",
+                "Column 4": "35.9",
+                "Column 5": "2.7435"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.071",
+                "Column 2": "33.3",
+                "Column 3": "0.2378",
+                "Column 4": "36",
+                "Column 5": "2.8137"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.081",
+                "Column 2": "33.4",
+                "Column 3": "0.2654",
+                "Column 4": "36",
+                "Column 5": "2.7435"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.091",
+                "Column 2": "33.4",
+                "Column 3": "0.319",
+                "Column 4": "36.1",
+                "Column 5": "2.8076"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.101",
+                "Column 2": "33.4",
+                "Column 3": "0.2221",
+                "Column 4": "36.1",
+                "Column 5": "2.8076"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.111",
+                "Column 2": "33.5",
+                "Column 3": "0.3093",
+                "Column 4": "36.2",
+                "Column 5": "2.7954"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.121",
+                "Column 2": "33.5",
+                "Column 3": "0.3279",
+                "Column 4": "36.2",
+                "Column 5": "2.7954"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.131",
+                "Column 2": "33.6",
+                "Column 3": "0.2693",
+                "Column 4": "36.3",
+                "Column 5": "2.7893"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.141",
+                "Column 2": "33.6",
+                "Column 3": "0.3426",
+                "Column 4": "36.3",
+                "Column 5": "2.829"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.151",
+                "Column 2": "33.7",
+                "Column 3": "0.2292",
+                "Column 4": "36.4",
+                "Column 5": "2.8229"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.161",
+                "Column 2": "33.7",
+                "Column 3": "0.2511",
+                "Column 4": "36.4",
+                "Column 5": "2.8229"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.171",
+                "Column 2": "33.7",
+                "Column 3": "0.2865",
+                "Column 4": "36.5",
+                "Column 5": "2.8809"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.181",
+                "Column 2": "33.8",
+                "Column 3": "0.2307",
+                "Column 4": "36.5",
+                "Column 5": "2.8137"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.191",
+                "Column 2": "33.8",
+                "Column 3": "0.2385",
+                "Column 4": "36.6",
+                "Column 5": "2.8748"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.201",
+                "Column 2": "33.9",
+                "Column 3": "0.2464",
+                "Column 4": "36.6",
+                "Column 5": "2.8076"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.211",
+                "Column 2": "33.9",
+                "Column 3": "0.2646",
+                "Column 4": "36.7",
+                "Column 5": "2.8656"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.221",
+                "Column 2": "33.9",
+                "Column 3": "0.4041",
+                "Column 4": "36.7",
+                "Column 5": "2.8656"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.231",
+                "Column 2": "34",
+                "Column 3": "0.2772",
+                "Column 4": "36.8",
+                "Column 5": "2.8656"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.241",
+                "Column 2": "34.1",
+                "Column 3": "0.343",
+                "Column 4": "36.8",
+                "Column 5": "2.8656"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.251",
+                "Column 2": "34.1",
+                "Column 3": "0.3455",
+                "Column 4": "36.9",
+                "Column 5": "2.8595"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.261",
+                "Column 2": "34.2",
+                "Column 3": "0.3312",
+                "Column 4": "36.9",
+                "Column 5": "2.7924"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.271",
+                "Column 2": "34.2",
+                "Column 3": "0.4152",
+                "Column 4": "37",
+                "Column 5": "2.8503"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.281",
+                "Column 2": "34.2",
+                "Column 3": "0.4081",
+                "Column 4": "37",
+                "Column 5": "2.8503"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.291",
+                "Column 2": "34.3",
+                "Column 3": "0.4349",
+                "Column 4": "37.1",
+                "Column 5": "2.8778"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.301",
+                "Column 2": "34.3",
+                "Column 3": "0.4363",
+                "Column 4": "37.1",
+                "Column 5": "2.8778"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.311",
+                "Column 2": "34.4",
+                "Column 3": "0.324",
+                "Column 4": "37.2",
+                "Column 5": "2.8687"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.321",
+                "Column 2": "34.4",
+                "Column 3": "0.3237",
+                "Column 4": "37.2",
+                "Column 5": "2.8687"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.331",
+                "Column 2": "34.5",
+                "Column 3": "0.3541",
+                "Column 4": "37.3",
+                "Column 5": "2.9419"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.341",
+                "Column 2": "34.5",
+                "Column 3": "0.4152",
+                "Column 4": "37.3",
+                "Column 5": "2.8687"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.351",
+                "Column 2": "34.5",
+                "Column 3": "0.4417",
+                "Column 4": "37.4",
+                "Column 5": "2.9297"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.361",
+                "Column 2": "34.6",
+                "Column 3": "0.4663",
+                "Column 4": "37.4",
+                "Column 5": "2.8595"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.371",
+                "Column 2": "34.6",
+                "Column 3": "0.4148",
+                "Column 4": "37.5",
+                "Column 5": "2.9236"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.381",
+                "Column 2": "34.7",
+                "Column 3": "0.4613",
+                "Column 4": "37.5",
+                "Column 5": "2.8534"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.391",
+                "Column 2": "34.7",
+                "Column 3": "0.5068",
+                "Column 4": "37.6",
+                "Column 5": "2.9236"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.401",
+                "Column 2": "34.7",
+                "Column 3": "0.52",
+                "Column 4": "37.6",
+                "Column 5": "2.9236"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.411",
+                "Column 2": "34.8",
+                "Column 3": "0.5697",
+                "Column 4": "37.7",
+                "Column 5": "2.9175"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.421",
+                "Column 2": "34.8",
+                "Column 3": "0.5565",
+                "Column 4": "37.7",
+                "Column 5": "2.9175"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.431",
+                "Column 2": "34.9",
+                "Column 3": "0.4056",
+                "Column 4": "37.8",
+                "Column 5": "2.9449"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.441",
+                "Column 2": "34.9",
+                "Column 3": "0.4667",
+                "Column 4": "37.8",
+                "Column 5": "2.9449"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.451",
+                "Column 2": "35",
+                "Column 3": "0.3884",
+                "Column 4": "37.9",
+                "Column 5": "3.0121"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.461",
+                "Column 2": "35",
+                "Column 3": "0.3719",
+                "Column 4": "37.9",
+                "Column 5": "2.9449"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.471",
+                "Column 2": "35.1",
+                "Column 3": "0.441",
+                "Column 4": "38",
+                "Column 5": "2.9388"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.481",
+                "Column 2": "35.1",
+                "Column 3": "0.5014",
+                "Column 4": "38",
+                "Column 5": "2.948"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.491",
+                "Column 2": "35.1",
+                "Column 3": "0.53",
+                "Column 4": "38.1",
+                "Column 5": "3.006"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.501",
+                "Column 2": "35.2",
+                "Column 3": "0.525",
+                "Column 4": "38.1",
+                "Column 5": "2.9388"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.511",
+                "Column 2": "35.2",
+                "Column 3": "0.4846",
+                "Column 4": "38.2",
+                "Column 5": "2.9968"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.521",
+                "Column 2": "35.3",
+                "Column 3": "0.5583",
+                "Column 4": "38.2",
+                "Column 5": "2.9297"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.531",
+                "Column 2": "35.3",
+                "Column 3": "0.5325",
+                "Column 4": "38.3",
+                "Column 5": "2.9907"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.541",
+                "Column 2": "35.4",
+                "Column 3": "0.4427",
+                "Column 4": "38.3",
+                "Column 5": "2.9327"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.551",
+                "Column 2": "35.4",
+                "Column 3": "0.4957",
+                "Column 4": "38.4",
+                "Column 5": "2.9907"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.561",
+                "Column 2": "35.4",
+                "Column 3": "0.5347",
+                "Column 4": "38.4",
+                "Column 5": "2.9999"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.571",
+                "Column 2": "35.5",
+                "Column 3": "0.5175",
+                "Column 4": "38.5",
+                "Column 5": "3.0273"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.581",
+                "Column 2": "35.5",
+                "Column 3": "0.5325",
+                "Column 4": "38.5",
+                "Column 5": "3.0273"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.591",
+                "Column 2": "35.6",
+                "Column 3": "0.5236",
+                "Column 4": "38.6",
+                "Column 5": "3.0212"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.601",
+                "Column 2": "35.6",
+                "Column 3": "0.4399",
+                "Column 4": "38.6",
+                "Column 5": "3.0212"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.611",
+                "Column 2": "35.7",
+                "Column 3": "0.4828",
+                "Column 4": "38.7",
+                "Column 5": "3.0212"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.621",
+                "Column 2": "35.7",
+                "Column 3": "0.4957",
+                "Column 4": "38.7",
+                "Column 5": "3.0212"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.631",
+                "Column 2": "35.8",
+                "Column 3": "0.5772",
+                "Column 4": "38.8",
+                "Column 5": "3.0151"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.641",
+                "Column 2": "35.8",
+                "Column 3": "0.6373",
+                "Column 4": "38.8",
+                "Column 5": "3.0243"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.651",
+                "Column 2": "35.9",
+                "Column 3": "0.5382",
+                "Column 4": "38.9",
+                "Column 5": "3.0243"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.661",
+                "Column 2": "35.9",
+                "Column 3": "0.6605",
+                "Column 4": "38.9",
+                "Column 5": "3.0243"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.671",
+                "Column 2": "36",
+                "Column 3": "0.6949",
+                "Column 4": "39",
+                "Column 5": "3.0151"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.681",
+                "Column 2": "36",
+                "Column 3": "0.6655",
+                "Column 4": "39",
+                "Column 5": "3.0151"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.691",
+                "Column 2": "36",
+                "Column 3": "0.6863",
+                "Column 4": "39.1",
+                "Column 5": "3.0792"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.701",
+                "Column 2": "36.1",
+                "Column 3": "0.5772",
+                "Column 4": "39.1",
+                "Column 5": "3.0548"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.711",
+                "Column 2": "36.2",
+                "Column 3": "0.6205",
+                "Column 4": "39.2",
+                "Column 5": "3.0426"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.721",
+                "Column 2": "36.2",
+                "Column 3": "0.6473",
+                "Column 4": "39.2",
+                "Column 5": "3.0426"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.731",
+                "Column 2": "36.2",
+                "Column 3": "0.5486",
+                "Column 4": "39.3",
+                "Column 5": "3.1158"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.741",
+                "Column 2": "36.3",
+                "Column 3": "0.653",
+                "Column 4": "39.3",
+                "Column 5": "3.0426"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.751",
+                "Column 2": "36.3",
+                "Column 3": "0.6176",
+                "Column 4": "39.4",
+                "Column 5": "3.1067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.761",
+                "Column 2": "36.4",
+                "Column 3": "0.6659",
+                "Column 4": "39.4",
+                "Column 5": "3.0457"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.771",
+                "Column 2": "36.5",
+                "Column 3": "0.702",
+                "Column 4": "39.5",
+                "Column 5": "3.0365"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.781",
+                "Column 2": "36.5",
+                "Column 3": "0.702",
+                "Column 4": "39.5",
+                "Column 5": "3.0457"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.791",
+                "Column 2": "36.6",
+                "Column 3": "0.6509",
+                "Column 4": "39.6",
+                "Column 5": "3.0396"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.801",
+                "Column 2": "36.6",
+                "Column 3": "0.6638",
+                "Column 4": "39.6",
+                "Column 5": "3.0396"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.811",
+                "Column 2": "36.7",
+                "Column 3": "0.6716",
+                "Column 4": "39.7",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.821",
+                "Column 2": "36.7",
+                "Column 3": "0.7457",
+                "Column 4": "39.7",
+                "Column 5": "3.0396"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.831",
+                "Column 2": "36.7",
+                "Column 3": "0.6734",
+                "Column 4": "39.8",
+                "Column 5": "3.1006"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.841",
+                "Column 2": "36.7",
+                "Column 3": "0.7746",
+                "Column 4": "39.8",
+                "Column 5": "3.1494"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.851",
+                "Column 2": "36.8",
+                "Column 3": "0.8154",
+                "Column 4": "39.9",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.861",
+                "Column 2": "36.9",
+                "Column 3": "0.6924",
+                "Column 4": "39.9",
+                "Column 5": "3.0823"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.871",
+                "Column 2": "37",
+                "Column 3": "0.692",
+                "Column 4": "40",
+                "Column 5": "3.0731"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.881",
+                "Column 2": "37",
+                "Column 3": "0.76",
+                "Column 4": "40",
+                "Column 5": "3.0731"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.891",
+                "Column 2": "37.1",
+                "Column 3": "0.7085",
+                "Column 4": "40.1",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.901",
+                "Column 2": "37.1",
+                "Column 3": "0.8233",
+                "Column 4": "40.1",
+                "Column 5": "3.0731"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.911",
+                "Column 2": "37.2",
+                "Column 3": "0.82",
+                "Column 4": "40.2",
+                "Column 5": "3.067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.921",
+                "Column 2": "37.2",
+                "Column 3": "0.7668",
+                "Column 4": "40.2",
+                "Column 5": "3.0762"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.931",
+                "Column 2": "37.3",
+                "Column 3": "0.7067",
+                "Column 4": "40.3",
+                "Column 5": "3.1372"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.941",
+                "Column 2": "37.3",
+                "Column 3": "0.7249",
+                "Column 4": "40.3",
+                "Column 5": "3.0762"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.951",
+                "Column 2": "37.4",
+                "Column 3": "0.8672",
+                "Column 4": "40.4",
+                "Column 5": "3.067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.961",
+                "Column 2": "37.4",
+                "Column 3": "0.7735",
+                "Column 4": "40.4",
+                "Column 5": "3.0762"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.971",
+                "Column 2": "37.5",
+                "Column 3": "0.7439",
+                "Column 4": "40.5",
+                "Column 5": "3.1067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.981",
+                "Column 2": "37.5",
+                "Column 3": "0.8304",
+                "Column 4": "40.5",
+                "Column 5": "3.1067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "1.991",
+                "Column 2": "37.6",
+                "Column 3": "0.9141",
+                "Column 4": "40.6",
+                "Column 5": "3.1769"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.001",
+                "Column 2": "37.6",
+                "Column 3": "0.9599",
+                "Column 4": "40.6",
+                "Column 5": "3.1067"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.011",
+                "Column 2": "37.7",
+                "Column 3": "0.9248",
+                "Column 4": "40.7",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.021",
+                "Column 2": "37.7",
+                "Column 3": "0.7946",
+                "Column 4": "40.7",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.031",
+                "Column 2": "37.7",
+                "Column 3": "0.7961",
+                "Column 4": "40.8",
+                "Column 5": "3.1799"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.041",
+                "Column 2": "37.8",
+                "Column 3": "0.7424",
+                "Column 4": "40.8",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.051",
+                "Column 2": "37.9",
+                "Column 3": "0.8136",
+                "Column 4": "40.9",
+                "Column 5": "3.1006"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.061",
+                "Column 2": "37.9",
+                "Column 3": "0.7589",
+                "Column 4": "40.9",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.071",
+                "Column 2": "38",
+                "Column 3": "0.7399",
+                "Column 4": "41",
+                "Column 5": "3.1036"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.081",
+                "Column 2": "38",
+                "Column 3": "0.6691",
+                "Column 4": "41",
+                "Column 5": "3.1128"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.091",
+                "Column 2": "38.1",
+                "Column 3": "0.7968",
+                "Column 4": "41.1",
+                "Column 5": "3.1036"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.101",
+                "Column 2": "38.1",
+                "Column 3": "0.7914",
+                "Column 4": "41.1",
+                "Column 5": "3.1036"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.111",
+                "Column 2": "38.2",
+                "Column 3": "0.9635",
+                "Column 4": "41.2",
+                "Column 5": "3.1403"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.121",
+                "Column 2": "38.2",
+                "Column 3": "0.9109",
+                "Column 4": "41.2",
+                "Column 5": "3.1403"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.131",
+                "Column 2": "38.3",
+                "Column 3": "0.9023",
+                "Column 4": "41.3",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.141",
+                "Column 2": "38.3",
+                "Column 3": "0.9552",
+                "Column 4": "41.3",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.151",
+                "Column 2": "38.4",
+                "Column 3": "0.967",
+                "Column 4": "41.4",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.161",
+                "Column 2": "38.4",
+                "Column 3": "0.849",
+                "Column 4": "41.4",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.171",
+                "Column 2": "38.5",
+                "Column 3": "0.8136",
+                "Column 4": "41.5",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.181",
+                "Column 2": "38.5",
+                "Column 3": "0.8383",
+                "Column 4": "41.5",
+                "Column 5": "3.1433"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.191",
+                "Column 2": "38.6",
+                "Column 3": "0.9009",
+                "Column 4": "41.6",
+                "Column 5": "3.1372"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.201",
+                "Column 2": "38.6",
+                "Column 3": "0.9431",
+                "Column 4": "41.6",
+                "Column 5": "3.1464"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.211",
+                "Column 2": "38.7",
+                "Column 3": "0.9009",
+                "Column 4": "41.7",
+                "Column 5": "3.1372"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.221",
+                "Column 2": "38.8",
+                "Column 3": "0.7986",
+                "Column 4": "41.7",
+                "Column 5": "3.0792"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.231",
+                "Column 2": "38.8",
+                "Column 3": "0.8379",
+                "Column 4": "41.8",
+                "Column 5": "3.1403"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.241",
+                "Column 2": "38.8",
+                "Column 3": "0.9424",
+                "Column 4": "41.8",
+                "Column 5": "3.1769"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.251",
+                "Column 2": "38.9",
+                "Column 3": "0.8891",
+                "Column 4": "41.9",
+                "Column 5": "3.1769"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.261",
+                "Column 2": "39",
+                "Column 3": "0.9055",
+                "Column 4": "41.9",
+                "Column 5": "3.1097"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.271",
+                "Column 2": "39",
+                "Column 3": "0.9724",
+                "Column 4": "42",
+                "Column 5": "3.1769"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.281",
+                "Column 2": "39",
+                "Column 3": "0.9681",
+                "Column 4": "42",
+                "Column 5": "3.1769"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.291",
+                "Column 2": "39.1",
+                "Column 3": "0.9402",
+                "Column 4": "42.1",
+                "Column 5": "3.1799"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.301",
+                "Column 2": "39.2",
+                "Column 3": "0.9545",
+                "Column 4": "42.1",
+                "Column 5": "3.1128"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.311",
+                "Column 2": "39.2",
+                "Column 3": "0.8297",
+                "Column 4": "42.2",
+                "Column 5": "3.1708"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.321",
+                "Column 2": "39.3",
+                "Column 3": "0.9009",
+                "Column 4": "42.2",
+                "Column 5": "3.1128"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.331",
+                "Column 2": "39.3",
+                "Column 3": "1.0571",
+                "Column 4": "42.3",
+                "Column 5": "3.1799"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.341",
+                "Column 2": "39.4",
+                "Column 3": "1.1551",
+                "Column 4": "42.3",
+                "Column 5": "3.1799"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.351",
+                "Column 2": "39.4",
+                "Column 3": "0.9849",
+                "Column 4": "42.4",
+                "Column 5": "3.1738"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.361",
+                "Column 2": "39.5",
+                "Column 3": "1.0507",
+                "Column 4": "42.4",
+                "Column 5": "3.1158"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.371",
+                "Column 2": "39.5",
+                "Column 3": "1.065",
+                "Column 4": "42.5",
+                "Column 5": "3.1738"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.381",
+                "Column 2": "39.5",
+                "Column 3": "1.1233",
+                "Column 4": "42.5",
+                "Column 5": "3.2104"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.391",
+                "Column 2": "39.6",
+                "Column 3": "0.9731",
+                "Column 4": "42.6",
+                "Column 5": "3.2135"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.401",
+                "Column 2": "39.7",
+                "Column 3": "0.9209",
+                "Column 4": "42.6",
+                "Column 5": "3.1464"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.411",
+                "Column 2": "39.7",
+                "Column 3": "1.0339",
+                "Column 4": "42.7",
+                "Column 5": "3.2135"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.421",
+                "Column 2": "39.8",
+                "Column 3": "1.1244",
+                "Column 4": "42.7",
+                "Column 5": "3.1464"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.431",
+                "Column 2": "39.8",
+                "Column 3": "0.9896",
+                "Column 4": "42.8",
+                "Column 5": "3.2135"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.441",
+                "Column 2": "39.9",
+                "Column 3": "1.0461",
+                "Column 4": "42.8",
+                "Column 5": "3.1464"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.451",
+                "Column 2": "39.9",
+                "Column 3": "1.0986",
+                "Column 4": "42.9",
+                "Column 5": "3.2074"
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "2.461",
+                "Column 2": "40",
+                "Column 3": "1.1755",
+                "Column 4": "42.9",
+                "Column 5": "3.1494"
+            }
+        }
+    ],
+    "Header": {
+        "Atmosphere": {
+            "Element": "He",
+            "unit": "l/h",
+            "value": "20"
+        },
+        "Comment": {
+            "": "Zero"
+        },
+        "Date/Time": {
+            "Date": "08.06.15",
+            "Time": "5"
+        },
+        "Laboratory": "NIST",
+        "Operator": "MRS",
+        "Reference": {
+            "": "-----",
+            "unit": "mm",
+            "value": "0"
+        },
+        "Sample": "1045_Steel",
+        "value": {
+            "": "10.1",
+            "unit": "mm"
+        }
+    }
+}
