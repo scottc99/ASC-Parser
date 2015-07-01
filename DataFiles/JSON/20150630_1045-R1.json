@@ -298,6 +298,22 @@
             }
         },
         {
+            "Data List": {
+                "Column 1": "",
+                "Column 2": "",
+                "Column 3": ""
+            }
+        },
+        {
+            "Data Table": {
+                "Column 1": "PROBE",
+                "Column 2": "",
+                "Column 3": "",
+                "Column 4": "",
+                "Column 5": ""
+            }
+        },
+        {
             "Data Table": {
                 "Column 1": "0.001",
                 "Column 2": "30.7",

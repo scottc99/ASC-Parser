@@ -321,11 +321,12 @@ def convert_excel():
 			 	if sh.cell_value(begin, 0) == "PROBE":
 					break	
 				begin += 1
-		
-		begin += 1
+			except: 
+				pass
 
 		while True:
-			try: 
+			try:
+
 				dataTable_row = {}
 
 				dataTable_row["Data Table"] = {}
