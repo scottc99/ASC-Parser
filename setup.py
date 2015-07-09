@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### System and module requirements for adsorption analysis software ####
 #!/usr/bin/env python
 
@@ -17,3 +18,6 @@ setup(
 
     # cmdclass = {'sdist': sdist_git},
 )
+=======
+#### Setup and installation of apprpriate modules to use ASC-Parser ####
+>>>>>>> 25880b362b4ed87ad98f232d8da74db7d7a86ae1
